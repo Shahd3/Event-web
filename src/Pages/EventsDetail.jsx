@@ -1,5 +1,5 @@
 import { useParams } from 'react-router-dom';
-import events from '../data/events.js';
+import events from '../Data/events.js';
 import './style.css'
 
 export default function EventDetails() {
