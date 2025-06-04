@@ -15,7 +15,7 @@ export default function Events(){
         
             {events.map(event =>(
                 <div key={event.id} className = 'events'>
-                <img className = 'img' src ={event.image} alt={event.title} className = 'E-img'/> 
+                <img src ={event.image} alt={event.title} className = 'E-img'/> 
 
                 <div style = {{padding: '16px', fontSize: '25px'}}>
                     <h3 style={{fontFamily: 'serif'}}>{event.title}</h3>
