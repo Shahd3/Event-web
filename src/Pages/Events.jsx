@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'; 
-import events from '../data/events.js';
 import './style.css'
 import React, { useState} from 'react'; 
+import events from '../Data/events';
 
 export default function Events(){
 
