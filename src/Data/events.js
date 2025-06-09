@@ -3,7 +3,7 @@ const events = [
         id : '1', 
         title : 'Sheikh Zayed Festival', 
         date :'November 11, 2024 - February 28, 2025' ,
-        image :'/src/assets/img/tickets.png',
+        image :"/src/assets/img/SH.jpg",
         location :'Al Wathba-Camel Race South - Abu Dhabi',
         description: "The Sheikh Zayed Heritage Festival is a major annual cultural and entertainment event in Abu Dhabi, specifically in Al Wathba, that celebrates the UAE's rich heritage and traditions. It's named in honor of the UAE's founding father, Sheikh Zayed bin Sultan Al Nahyan. The festival typically runs from November to March, offering a blend of traditional and modern experiences. "
     }, 
